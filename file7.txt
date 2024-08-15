@@ -1,0 +1,19 @@
+Python is a powerful, general-purpose programming language with a wide range of applications. It was mainly used for scripting after its release in 1994, but updates and new technologies in recent years have expanded its utility. Today, Python stands tall as many developers’ favorite programming language.
+
+Python currently has two active versions: Python 2 and Python 3.
+
+Python 2 was released in 2000, and its latest release, 2.7, came out in 2010.
+Python 3 was first released in 2008. The current version is 3.9, and each new version is released around 17 months apart.
+Many Python applications and libraries still use Python 2, but Python 3 is recommended for future software. Below, we’ll take a closer look at Python’s functionality and the different careers that use it.
+
+What is Python used for?
+Python is a general-purpose language, meaning you can use it for just about anything. As we said earlier, it’s commonly used for scripting — or writing instructions for a computer to perform a specific task. You’ll find Python in core Linux utilities and in the deployment scripts used by DevOps engineers because of this. Most Linux installations even include a Python language interpreter.
+
+Many web developers also swear by Python web frameworks like Django, Flask, and Bottle. Using these frameworks, they can build websites and applications quickly and easily.
+
+Python is one of the top languages for data analysts and data scientists. Its simple syntax makes it popular for data wrangling, and it also has a multitude of libraries that enable data visualization, data analysis, and machine learning.
+
+Is Python easy for beginners?
+Python’s unique syntax was designed to be straightforward and easy to read, making it a great first language for beginners. That being said, it’s a robust language that many developers choose as their primary language to use for their entire career.
+
+Python’s simplicity allows developers to spend less time figuring out syntax and more time problem-solving. Whether you continue using Python or not, learning it will help you pick up the basics of programming quickly.

@@ -1,0 +1,10 @@
+Developers can easily read and understand a Python program because it has basic, English-like syntax. 
+Python makes developers more productive because they can write a Python program using fewer lines of code compared to many other languages.
+Python has a large standard library that contains reusable codes for almost any task. As a result, developers do not have to write code from scratch.
+Developers can easily use Python with other popular programming languages such as Java, C, and C++.
+The active Python community includes millions of supportive developers around the globe. If you face an issue, you can get quick support from the community.
+Plenty of helpful resources are available on the internet if you want to learn Python. For example, you can easily find videos, tutorials, documentation, and developer guides.
+Python is portable across different computer operating systems such as Windows, macOS, Linux, and Unix.
+How is Python used?
+The Python language has several use cases in application development, including the following examples:
+

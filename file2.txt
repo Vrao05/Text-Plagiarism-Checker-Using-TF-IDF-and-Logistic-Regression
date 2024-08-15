@@ -1,0 +1,15 @@
+Python is a programming language that is interpreted, object-oriented, and considered to be high-level too. What is Python? Python is one of the easiest yet most useful programming languages which is widely used in the software industry. People use Python for Competitive Programming, Web Development, and creating software. Due to its easiest syntax, it is recommended for beginners who are new to the software engineering field. Its demand is growing at a very rapid pace due to its vast use cases in Modern Technological fields like Data Science, Machine learning, and Automation Tasks. For many years now, it has been ranked among the top Programming languages.
+What is Python?
+Python is a set of instructions that we give in the form of a Program to our computer to perform any specific task. It is a Programming language having properties like it is interpreted, object-oriented and it is high-level too. Due to its beginner-friendly syntax, it became a clear choice for beginners to start their programming journey. The major focus behind creating it is making it easier for developers to read and understand, also reducing the lines of code.
+
+History of Python
+Python was created in 1980s by Guido van Rossum. During his research at the National Research Institute for Mathematics and Computer Science in the Netherlands, he created Python – a super easy programming language in terms of reading and usage. The first ever version was released in the year 1991 which had only a few built-in data types and basic functionality.
+
+Later, when it gained popularity among scientists for numerical computations and data analysis, in 1994, Python 1.0 was released with extra features like map, lambda, and filter functions. After that adding new functionalities and releasing newer versions of Python came into fashion. 
+
+Python 1.5 released in 1997
+Python 2.0 released in 2000
+Python 3.0 in 2008 brought newer functionalities
+The latest version of Python, Python 3.11 was released in 2022.
+
+Newer functionalities being added to Python makes it more beneficial for developers and improved its performance. In recent years, Python has gained a lot of popularity and is a highly demanding programming language. It has spread its demand in various fields which includes machine learning, artificial intelligence, data analysis, web development, and many more giving you a high-paying job.

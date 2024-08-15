@@ -1,0 +1,29 @@
+Python was developed by Guido van Rossum in the late eighties and early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.
+
+Python is derived from many other languages, including ABC, Modula-3, C, C++, Algol-68, SmallTalk, and Unix shell and other scripting languages.
+
+Python is copyrighted. Like Perl, Python source code is now available under the GNU General Public License (GPL).
+
+For many uninitiated people, the word Python is related to a species of snake. Rossum though attributes the choice of the name Python to a popular comedy series Monty Python's Flying Circus on BBC.
+
+Being the principal architect of Python, the developer community conferred upon him the title of Benevolent Dictator for Life (BDFL). However, in 2018, Rossum relinquished the title. Thereafter, the development and distribution of the reference implementation of Python is handled by a nonprofit organization Python Software Foundation.
+
+Who Invented Python?
+Python was invented by a Dutch Programmer Guido Van Rossum in the late 1980s. And, Python's first version (0.9.0) was released in 1991.
+
+Learn Python in-depth with real-world projects through our Java certification course. Enroll and become a certified expert to boost your career.
+
+Evolution of Python – The Major Python Releases
+Following are the important stages in the history of Python −
+
+Python 0.9.0
+Python's first published version is 0.9. It was released in February 1991. It consisted of support for core object-oriented programming principles.
+
+Python 1.0
+In January 1994, version 1.0 was released, armed with functional programming tools, features like support for complex numbers etc.
+
+Python 2.0
+Next major version − Python 2.0 was launched in October 2000. Many new features such as list comprehension, garbage collection and Unicode support were included with it.
+
+Python 3.0
+Python 3.0, a completely revamped version of Python was released in December 2008. The primary objective of this revamp was to remove a lot of discrepancies that had crept in Python 2.x versions. Python 3 was backported to Python 2.6. It also included a utility named as python2to3 
