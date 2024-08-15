@@ -1,3 +1,5 @@
+!pip install Flask pyngrok
+!ngrok authtoken 2kHeGgzuJp6sTBoCdZrz3PovA6U_6o1Yc2GrZeCK15B8Niuie
 
 from flask import Flask, request, redirect, url_for
 import os
